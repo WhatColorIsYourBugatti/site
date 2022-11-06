@@ -23,4 +23,5 @@ slides:
   - winamp
   - ical
   - symbolic-abstraction
+  - win32about
 ---
