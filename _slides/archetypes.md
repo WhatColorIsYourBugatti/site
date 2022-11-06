@@ -16,5 +16,5 @@ slides:
   - menus-on-top
   - igoefinger
   - x-window-system
-  - fd7desktop1sm
+  - star_8010
 ---
