@@ -29,6 +29,6 @@ events:
   - weiser-tab-pad-board
   - digital-desk
   - lifestreams
-  - altosystem
+  - Xerox-Alto
 ---
 
