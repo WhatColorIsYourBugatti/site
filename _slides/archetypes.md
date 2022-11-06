@@ -16,6 +16,8 @@ slides:
   - menus-on-top
   - igoefinger
   - x-window-system
+  - Sony-Walkman
   - xerox-star
   - star_8010
+
 ---
