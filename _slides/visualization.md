@@ -23,5 +23,4 @@ slides:
   - winamp
   - ical
   - symbolic-abstraction
-  - Windows-3.2(Chinese Windows)
 ---
