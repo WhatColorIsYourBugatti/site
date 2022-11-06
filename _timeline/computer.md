@@ -19,6 +19,7 @@ events:
   - children-alto
   - xerox-star-pc
   - digital-desk
+  - xerox-star
   - Windows-3.2(Chinese Windows)
   - Xerox-Alto
 ---
