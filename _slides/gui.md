@@ -18,4 +18,5 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - fd7desktop1sm
 ---
