@@ -19,5 +19,5 @@ events:
   - children-alto
   - xerox-star-pc
   - digital-desk
-  - win32about
+  - Windows-3.2(Chinese Windows)
 ---
