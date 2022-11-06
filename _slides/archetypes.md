@@ -16,4 +16,5 @@ slides:
   - menus-on-top
   - igoefinger
   - x-window-system
+  - star_8010
 ---
