@@ -18,4 +18,6 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - Xerox-Alto
+  - Windows-3.2(Chinese Windows)
 ---
