@@ -18,5 +18,5 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
-  - altosystem
+  - Xerox-Alto
 ---
