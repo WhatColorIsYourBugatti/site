@@ -19,4 +19,5 @@ slides:
   - squeakos
   - sugar-neighborhood
   - XFree86normal
+  - windowsnormal
 ---
