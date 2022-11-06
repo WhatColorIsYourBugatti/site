@@ -17,4 +17,5 @@ slides:
   - igoefinger
   - x-window-system
   - xerox-star
+  - star_8010
 ---
